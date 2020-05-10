@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://Juber123:Juber123@cluster0-yxl3j.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "my_serect_dog_tah_has_taken_the_token"
+
+}
